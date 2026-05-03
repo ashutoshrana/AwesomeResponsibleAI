@@ -833,6 +833,7 @@ Licensing AI models adds new layers of complexity beyond what traditional softwa
 
 - [AIR Blackbox](https://github.com/airblackbox/gateway) `Python` - Open-source EU AI Act compliance scanner and runtime trust layer for Python AI agents. HMAC-SHA256 tamper-evident audit chains, PII detection, and prompt injection blocking. Trust layers for LangChain, CrewAI, AutoGen, OpenAI, Google ADK, and Claude Agent SDK. ([Website](https://airblackbox.ai) | [PyPI](https://pypi.org/project/air-blackbox/))
 - [glassalpha](https://github.com/asibic/glassalpha) `Python`
+- [regulated-ai-governance](https://github.com/ashutoshrana/regulated-ai-governance) `Python` - Runtime enforcement layer for EU AI Act Articles 12, 13, and 14 plus FERPA, HIPAA, GDPR, GLBA, and CCPA in production AI agents. Pre-tool-invocation compliance gates, PII scrubbing, tamper-evident audit logging, and framework adapters for LangChain, CrewAI, AutoGen, and Google ADK. ([PyPI](https://pypi.org/project/regulated-ai-governance/))
 - [Systima Comply](https://github.com/systima-ai/comply) `TypeScript` `Systima`
 
 ### Causal Inference
